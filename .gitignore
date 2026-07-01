@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# AWS Credentials
+.aws/
+
+# Logs
+*.log
+
+# ZIP Files
+*.zip
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
