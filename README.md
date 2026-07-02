@@ -111,14 +111,31 @@ Every push to the `main` branch triggers:
 -   GitHub Repository
 
       ![alt text](<screenshots/Screenshot 2026-07-02 162210.png>)
-      
+
 -   GitHub Actions
+
+      ![alt text](<screenshots/Screenshot 2026-07-02 152046.png>)
+
 -   CodePipeline
+
+      ![alt text](screenshots/codePipeline.png)
+
 -   Lambda
+
+      ![alt text](<screenshots/lambda function.png>)
+
 -   CloudWatch
+
+      ![alt text](<screenshots/cloudWatch log.png>)
+
 -   DynamoDB
+
+      ![alt text](<screenshots/DynamoDB table.png>)
+
 -   Amazon S3
--   Folder Structure
+
+      ![alt text](<screenshots/S3 Bucket.png>)
+
 
 ## 👨‍💻 Author
 
