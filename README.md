@@ -106,9 +106,10 @@ Every push to the `main` branch triggers:
 -   AWS CodeBuild
 -   AWS CodeConnections
 
-## 📸 Suggested Screenshots
+## 📸 Screenshots
 
 -   GitHub Repository
+      ![alt text](<screenshots/Screenshot 2026-07-02 162210.png>)
 -   GitHub Actions
 -   CodePipeline
 -   Lambda
